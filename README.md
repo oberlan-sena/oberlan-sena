@@ -2,7 +2,7 @@
 
 ## I'm Oberlan Sena!
 
-:computer: I'm a Junior Front End Developer! <a href='https://www.linkedin.com/in/oberlan-sena/'>LinkedIn</a>
+:computer: Junior Front End Developer! <a href='https://www.linkedin.com/in/oberlan-sena/'>LinkedIn</a>
 
 :house_with_garden: I’m from Brazil.
 
